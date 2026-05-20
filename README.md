@@ -1,4 +1,4 @@
-### Yea I code sometimes
+### Yea, I code sometimes
 
 <!--
 **LanceOS/LanceOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
